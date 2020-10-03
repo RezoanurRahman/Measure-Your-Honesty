@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MeasureYourHonesty</string>
+    <string name="facebook_app_id">585930035127095</string>
+    <string name="fb_login_protocol_scheme">fb585930035127095</string>
+
+</resources>
